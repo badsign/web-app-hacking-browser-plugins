@@ -10,6 +10,3 @@ Standard use:
 Only really helpful if you're not using an intercepting proxy such as Burp Suite
 1. Live HTTP Headers* - https://addons.mozilla.org/en-US/firefox/addon/live-http-headers/
 2. Tamper Data* - https://addons.mozilla.org/en-US/firefox/addon/tamper-data/
-
-
-* not required if using an intercepting proxy such as Burp, which you should always be using.
